@@ -1,0 +1,15 @@
+body{
+    margin: 0;
+}
+.color-1{
+    background: #B68C5A
+}
+.banner{
+    background-image: url(images/banner.png);
+    background-size: cover;
+    height: 60vh;    
+}
+.banner-div{
+    width: 690px;
+    height: auto;
+}
